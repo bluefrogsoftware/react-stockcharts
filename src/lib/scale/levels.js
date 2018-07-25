@@ -5,8 +5,8 @@ export const defaultFormatters = {
 	weekFormat: "%d %b",
 	dayFormat: "%a %d",
 	hourFormat: "%_I %p",
-	minuteFormat: "%I:%M %p",
-	secondFormat: "%I:%M:%S %p",
+	minuteFormat: "%I:%M",
+	secondFormat: "%I:%M:%S",
 	milliSecondFormat: "%L",
 };
 
